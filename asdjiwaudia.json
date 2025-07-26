@@ -1,0 +1,11 @@
+{
+  "fakedatamodelptr": "0x6833728",
+  "visualengineptr": "0x6676BC8",
+  "datamodel": "0x1C0",
+  "modelinstance": "0x340",
+  "humanoid": "0x100",
+  "health": "0x19C",
+  "players": "0xF0",
+  "localplayer": "0x128",
+  "version": "version-2a06298afe3947ab"
+}
