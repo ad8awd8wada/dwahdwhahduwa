@@ -1,12 +1,12 @@
 {
-  "fakedatamodelptr": 0x68D7308,
-  "visualengineptr": 0x6719638,
-  "datamodel": 0x1C0,
-  "modelinstance": 0x340,
-  "humanoid": 0x100,
-  "health": 0x19C,
-  "players": 0xF0,
-  "localplayer": 0x128,
+  "fakedatamodelptr": 109511432,
+  "visualengineptr": 108201528,
+  "datamodel": 448,
+  "modelinstance": 832,
+  "humanoid": 256,
+  "health": 412,
+  "players": 240,
+  "localplayer": 296,
   "version": "version-2a06298afe3947ab",
-  "active" : true
+  "active": true
 }
