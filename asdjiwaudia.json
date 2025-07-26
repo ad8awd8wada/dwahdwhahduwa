@@ -7,6 +7,10 @@
   "health": "0x19C",
   "players": "0xF0",
   "localplayer": "0x128",
+  "Position" : "0x14C",
+  "Primitive" : "0x178",
+  "viewmatrix": "0x4B0",
+  "Dimensions": "0x720",
   "version": "version-2a06298afe3947ab",
   "active" : true
 }
