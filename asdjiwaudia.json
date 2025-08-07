@@ -1,6 +1,6 @@
 {
-  "fakedatamodelptr": "0x6ED6E38",
-  "visualengineptr": "0x6D18608",
+  "fakedatamodelptr": "0x6E854F8",
+  "visualengineptr": "0x6C11C20",
   "datamodel": "0x1C0",
   "modelinstance": "0x328",
   "humanoid": "0x100",
@@ -11,6 +11,6 @@
   "Primitive" : "0x178",
   "viewmatrix": "0x4B0",
   "Dimensions": "0x720",
-  "version": "version-b8550645b8834e8a",
+  "version": "version-3f74e22590714de4",
   "active" : true
 }
